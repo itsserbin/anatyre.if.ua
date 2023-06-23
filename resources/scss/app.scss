@@ -1,0 +1,14 @@
+@import 'primeicons/primeicons.css';
+@import 'sweetalert2/src/sweetalert2.scss';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: "Oswald", 'sans-serif';
+}
+
+.first-form-bg {
+    background: linear-gradient(180deg, #E6E0E0 28.51%, #C3C3C3 79.01%, #A3A1A1 100%);
+}
