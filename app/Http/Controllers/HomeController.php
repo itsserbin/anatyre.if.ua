@@ -22,7 +22,7 @@ class HomeController extends Controller
     final public function createOrder(Request $request): bool
     {
         try {
-            Mail::to('serbin.ssd@gmail.com')->send(new NewOrder($request->all()));
+            Mail::to(env('APP_ORDER_EMAIL'))->send(new NewOrder($request->all()));
             return true;
         } catch (\Exception $e) {
             Log::error($e);
