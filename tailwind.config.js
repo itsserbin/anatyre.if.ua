@@ -15,7 +15,7 @@ export default {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
                 heading: ['Oswald', 'sans-serif'],
-                text: ['Roboto', 'sans-serif'],
+                text: ['Roboto Mono', 'sans-serif'],
             },
         },
     },

@@ -3,8 +3,8 @@
 
 <template>
     <section class="bg-zinc-900 text-center text-white grid gap-4 py-8">
-        <div class="mx-4 grid gap-4">
-            <div class="text-4xl font-medium font-heading">
+        <div class="mx-6 md:mx-12 grid gap-4">
+            <div class="text-4xl md:text-6xl font-[700] font-heading text-[#FFFFFF] ">
                 Ми знаходимось:
             </div>
             <iframe

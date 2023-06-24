@@ -45,17 +45,19 @@ const onSubmit = async () => {
 <template>
     <section class="first relative">
         <img src="/img/first-image.svg" alt="" class="absolute object-cover w-full h-full">
-        <div class="mx-auto xl:py-16 px-4 max-w-7xl relative grid grid-cols-1 md:grid-cols-2 gap-12">
-            <div class="flex flex-col justify-center gap-4">
+        <div class="mx-auto md:py-16 px-4 max-w-7xl relative flex flex-col md:flex-row gap-6">
+            <div class="md:w-1/2 flex flex-col justify-center gap-4">
                 <img src="/img/logo.svg" alt="">
-                <div class="text-4xl sm:text-6xl xl:text-8xl text-white font-medium font-heading">Шиномонтаж</div>
-                <a class="text-[#CF9236] text-2xl sm:text-3xl xl:text-6xl font-medium font-heading"
+                <div class="text-5xl sm:text-8xl md:text-6xl xl:text-8xl text-white font-medium font-heading xl:mb-5">
+                    Шиномонтаж
+                </div>
+                <a class="text-[#CF9236] text-3xl sm:text-6xl md:text-4xl xl:text-6xl font-medium font-heading"
                    :href="`tel:${phone}`">
                     {{ formattedPhone }}
                 </a>
             </div>
-            <div class="flex justify-center xl:justify-end">
-                <form class="first-form-bg w-full max-w-[320px] flex flex-col p-6 my-12 gap-4 rounded relative"
+            <div class="md:w-1/2 flex justify-center md:justify-end">
+                <form class="first-form-bg w-full max-w-[320px] flex flex-col p-6 my-12 gap-4 rounded-lg relative"
                       @submit.prevent="onSubmit">
                     <div class="bg-zinc-900 rounded-full w-20 h-20 mt-[-60px] mx-auto">
                         <img src="/img/first-form-avatar.svg" alt="" class="">
@@ -63,18 +65,18 @@ const onSubmit = async () => {
                     <input type="text"
                            v-model="state.item.name"
                            placeholder="Ваше імʼя"
-                           class="rounded bg-white p-2 border-0 mt-4"
+                           class="rounded-xl bg-white p-3 border-0 mt-4 font-text font-[300]"
                     >
                     <input type="text"
                            v-model="state.item.phone"
                            placeholder="+38"
-                           class="rounded bg-white p-2 border-0"
+                           class="rounded-xl bg-white p-3 border-0 font-text font-[300]"
                            v-maska
                            data-maska="+38 (###) ###-##-##"
                            required
                     >
                     <button type="submit"
-                            class="bg-green-600 rounded p-4 text-white font-bold"
+                            class="bg-green-600 rounded-xl p-4 text-white font-text font-[700]"
                             :disabled="state.isLoading"
                     >Замовити
                     </button>
