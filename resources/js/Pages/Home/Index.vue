@@ -11,6 +11,7 @@ const formattedPhone = import.meta.env.VITE_APP_FORMATTED_PHONE;
 </script>
 
 <template>
+    <Head title="Anatyre"/>
     <FirstSection :phone="phone" :formattedPhone="formattedPhone"/>
     <SecondSection/>
     <ThirdSection/>
