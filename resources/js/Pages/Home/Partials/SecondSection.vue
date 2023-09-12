@@ -12,7 +12,7 @@
                     Монтаж шин
                 </div>
                 <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
-                    50грн за шт.
+                    Від 50грн за шт.
                 </div>
             </div>
             <div class="grid grid-cols-12 gap-4">
@@ -20,7 +20,7 @@
                     Балансування шин
                 </div>
                 <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
-                    75грн за шт.
+                    Від 75грн за шт.
                 </div>
             </div>
             <div class="grid grid-cols-12 gap-4">
@@ -28,7 +28,7 @@
                     Прокатка дисків
                 </div>
                 <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
-                    100грн за шт.
+                    Від 100грн за шт.
                 </div>
             </div>
             <div class="grid grid-cols-12 gap-4">
@@ -36,7 +36,7 @@
                     Збереження шин
                 </div>
                 <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
-                    50грн за шт.
+                    Від 50грн за шт.
                 </div>
             </div>
             <div class="grid grid-cols-12 gap-4">
@@ -44,7 +44,7 @@
                     Ремонт шин
                 </div>
                 <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
-                    100грн за шт.
+                    Від 100грн за шт.
                 </div>
             </div>
             <div class="text-white text-4xl md:text-6xl text-center font-medium font-heading">
@@ -55,7 +55,7 @@
                     Зняття-встановлення
                 </div>
                 <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
-                    100грн за шт.
+                    Від 100грн за шт.
                 </div>
             </div>
             <div class="grid grid-cols-12 gap-4">
@@ -63,7 +63,7 @@
                     Монтаж шин
                 </div>
                 <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[200] font-heading text-center">
-                    200грн за шт.
+                    Від 200грн за шт.
                 </div>
             </div>
             <div class="grid grid-cols-12 gap-4">
@@ -71,15 +71,15 @@
                     Балансування шин
                 </div>
                 <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[200] font-heading text-center">
-                    250грн за шт.
+                    Від 250грн за шт.
                 </div>
             </div>
             <div class="grid grid-cols-12 gap-4">
                 <div class="col-span-8 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
-                    Ремон шин
+                    Ремонт шин
                 </div>
                 <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
-                    150грн за шт.
+                    Від 150грн за шт.
                 </div>
             </div>
         </div>
