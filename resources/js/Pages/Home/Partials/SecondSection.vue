@@ -8,10 +8,10 @@
                 Легкові
             </div>
             <div class="grid grid-cols-12 gap-4">
-                <div class="col-span-8 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
+                <div class="col-span-6 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
                     Монтаж шин
                 </div>
-                <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
+                <div class="col-span-6 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
                     Від 50грн за шт.
                 </div>
             </div>
