@@ -8,42 +8,42 @@
                 Легкові
             </div>
             <div class="grid grid-cols-12 gap-4">
-                <div class="col-span-6 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
+                <div class="col-span-7 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
                     Монтаж шин
                 </div>
-                <div class="col-span-6 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
+                <div class="col-span-5 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
                     Від 50грн за шт.
                 </div>
             </div>
             <div class="grid grid-cols-12 gap-4">
-                <div class="col-span-8 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
+                <div class="col-span-7 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
                     Балансування шин
                 </div>
-                <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
+                <div class="col-span-5 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
                     Від 75грн за шт.
                 </div>
             </div>
             <div class="grid grid-cols-12 gap-4">
-                <div class="col-span-8 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
+                <div class="col-span-7 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
                     Прокатка дисків
                 </div>
-                <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
+                <div class="col-span-5 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
                     Від 100грн за шт.
                 </div>
             </div>
             <div class="grid grid-cols-12 gap-4">
-                <div class="col-span-8 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
+                <div class="col-span-7 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
                     Збереження шин
                 </div>
-                <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
+                <div class="col-span-5 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
                     Від 50грн за шт.
                 </div>
             </div>
             <div class="grid grid-cols-12 gap-4">
-                <div class="col-span-8 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
+                <div class="col-span-7 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
                     Ремонт шин
                 </div>
-                <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
+                <div class="col-span-5 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
                     Від 100грн за шт.
                 </div>
             </div>
@@ -51,34 +51,34 @@
                 Вантажні
             </div>
             <div class="grid grid-cols-12 gap-4">
-                <div class="col-span-8 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
+                <div class="col-span-7 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
                     Зняття-встановлення
                 </div>
-                <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
+                <div class="col-span-5 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
                     Від 100грн за шт.
                 </div>
             </div>
             <div class="grid grid-cols-12 gap-4">
-                <div class="col-span-8 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
+                <div class="col-span-7 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
                     Монтаж шин
                 </div>
-                <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[200] font-heading text-center">
+                <div class="col-span-5 md:col-span-3 bg-gray-200 rounded p-2 font-[200] font-heading text-center">
                     Від 200грн за шт.
                 </div>
             </div>
             <div class="grid grid-cols-12 gap-4">
-                <div class="col-span-8 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
+                <div class="col-span-7 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
                     Балансування шин
                 </div>
-                <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[200] font-heading text-center">
+                <div class="col-span-5 md:col-span-3 bg-gray-200 rounded p-2 font-[200] font-heading text-center">
                     Від 250грн за шт.
                 </div>
             </div>
             <div class="grid grid-cols-12 gap-4">
-                <div class="col-span-8 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
+                <div class="col-span-7 md:col-span-9 bg-gray-200 rounded p-2 font-[400] font-heading">
                     Ремонт шин
                 </div>
-                <div class="col-span-4 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
+                <div class="col-span-5 md:col-span-3 bg-gray-200 rounded p-2 font-[300] font-heading text-center">
                     Від 150грн за шт.
                 </div>
             </div>
